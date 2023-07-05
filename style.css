@@ -1,0 +1,25 @@
+.game-card {
+    height: 190px;
+    width: 1200px;
+    padding-top: 150px;
+    font-family: 'Open Sans', monospace;
+}
+
+div.card-body {
+    background-color: rgb(240, 230, 217);
+}
+
+div.card-header {
+    background-color: rgb(197, 220, 230);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    height: 35px;
+}
+
+div.card-bottom {
+    background-color: cadetblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
